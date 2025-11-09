@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# GitHub Pages Configuration
+# This site uses static HTML/CSS/JS (no Jekyll processing needed)
+
+title: Gayashan Bombuwala - Portfolio
+description: Programmer | Blogger | Keyboard Enthusiast
+author: Gayashan Bombuwala
+email: gayashan@gayashan.net
+
+# GitHub Pages settings
+plugins: []
+
+# Exclude files from Jekyll processing (since we're using static HTML)
+exclude:
+  - README.md
+  - node_modules
+  - package.json
+  - .gitignore
